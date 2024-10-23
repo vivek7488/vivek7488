@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi 👋, I'm Vivek Kumar A Data Science and AI enthusiast<br>🌱 I’m currently learning Data Science and Stock Market<br>🤝 I’m looking for help with:Learning more about cryptocurrency  and Stock market<br>💬 Ask me about:Data science, product analytics, and optimizing dashboards for actionable business insights.<br>⚡ Fun fact I love exploring stock market analysis, enjoy traveling to experience diverse cultures and loves reading books.
+
 
 
 # 💻 Tech Stack:

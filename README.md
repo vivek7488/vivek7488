@@ -1,5 +1,17 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 # 💫 About Me:
 Hi 👋, I'm Vivek Kumar A Data Science and AI enthusiast<br>🌱 I’m currently learning Data Science and Stock Market<br>🤝 I’m looking for help with:Learning more about cryptocurrency  and Stock market<br>💬 Ask me about:Data science, product analytics, and optimizing dashboards for actionable business insights.<br>⚡ Fun fact I love exploring stock market analysis, enjoy traveling to experience diverse cultures and loves reading books.
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 
 
 
@@ -15,6 +27,5 @@ Hi 👋, I'm Vivek Kumar A Data Science and AI enthusiast<br>🌱 I’m currentl
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vivek7488&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
